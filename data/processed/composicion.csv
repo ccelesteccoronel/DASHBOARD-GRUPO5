@@ -1,0 +1,641 @@
+periodo,recorte,decil,componente,participacion
+T1 2024,Total urbano EPH,1,Laboral,0.5306926048281879
+T1 2024,Total urbano EPH,2,Laboral,0.6388212081830275
+T1 2024,Total urbano EPH,3,Laboral,0.7118841680453587
+T1 2024,Total urbano EPH,4,Laboral,0.7107433913097271
+T1 2024,Total urbano EPH,5,Laboral,0.6784108350714607
+T1 2024,Total urbano EPH,6,Laboral,0.6128680595604482
+T1 2024,Total urbano EPH,7,Laboral,0.6674422042027199
+T1 2024,Total urbano EPH,8,Laboral,0.680876425158036
+T1 2024,Total urbano EPH,9,Laboral,0.7269382660675701
+T1 2024,Total urbano EPH,10,Laboral,0.7356385604284518
+T1 2024,Total urbano EPH,1,Jubilaciones y pensiones,0.08767308484780444
+T1 2024,Total urbano EPH,2,Jubilaciones y pensiones,0.12438383587650156
+T1 2024,Total urbano EPH,3,Jubilaciones y pensiones,0.10762446362061222
+T1 2024,Total urbano EPH,4,Jubilaciones y pensiones,0.13311953802990684
+T1 2024,Total urbano EPH,5,Jubilaciones y pensiones,0.18798036751996935
+T1 2024,Total urbano EPH,6,Jubilaciones y pensiones,0.2378977061721969
+T1 2024,Total urbano EPH,7,Jubilaciones y pensiones,0.191968082404726
+T1 2024,Total urbano EPH,8,Jubilaciones y pensiones,0.18041040572399622
+T1 2024,Total urbano EPH,9,Jubilaciones y pensiones,0.12808943808694614
+T1 2024,Total urbano EPH,10,Jubilaciones y pensiones,0.08736356048203339
+T1 2024,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.2869521584216524
+T1 2024,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.14108495790061784
+T1 2024,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.09131243798486219
+T1 2024,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.04240983850165733
+T1 2024,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.03782671537260754
+T1 2024,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.012712277731570234
+T1 2024,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.010606372223425
+T1 2024,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0028912607400772934
+T1 2024,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0009026702690828914
+T1 2024,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",9.35030357141554e-05
+T1 2024,Total urbano EPH,1,Otros no laborales,0.09468215190235521
+T1 2024,Total urbano EPH,2,Otros no laborales,0.09570999803985311
+T1 2024,Total urbano EPH,3,Otros no laborales,0.0891789303491669
+T1 2024,Total urbano EPH,4,Otros no laborales,0.11372723215870875
+T1 2024,Total urbano EPH,5,Otros no laborales,0.09578208203596235
+T1 2024,Total urbano EPH,6,Otros no laborales,0.1365219565357847
+T1 2024,Total urbano EPH,7,Otros no laborales,0.12998334116912905
+T1 2024,Total urbano EPH,8,Otros no laborales,0.1358219083778904
+T1 2024,Total urbano EPH,9,Otros no laborales,0.1440696255764009
+T1 2024,Total urbano EPH,10,Otros no laborales,0.17690437605380066
+T1 2024,Corrientes,1,Laboral,0.4608937298140164
+T1 2024,Corrientes,2,Laboral,0.6068754999965866
+T1 2024,Corrientes,3,Laboral,0.6804807528413134
+T1 2024,Corrientes,4,Laboral,0.678721364489884
+T1 2024,Corrientes,5,Laboral,0.6635087781949496
+T1 2024,Corrientes,6,Laboral,0.6640260076909668
+T1 2024,Corrientes,7,Laboral,0.6762372057756125
+T1 2024,Corrientes,8,Laboral,0.6886325101110071
+T1 2024,Corrientes,9,Laboral,0.5902160383249337
+T1 2024,Corrientes,10,Laboral,0.5487296270783073
+T1 2024,Corrientes,1,Jubilaciones y pensiones,0.15726212965515268
+T1 2024,Corrientes,2,Jubilaciones y pensiones,0.11906782239368525
+T1 2024,Corrientes,3,Jubilaciones y pensiones,0.10161661229005607
+T1 2024,Corrientes,4,Jubilaciones y pensiones,0.11272221768891502
+T1 2024,Corrientes,5,Jubilaciones y pensiones,0.15681239092622856
+T1 2024,Corrientes,6,Jubilaciones y pensiones,0.1605738143004752
+T1 2024,Corrientes,7,Jubilaciones y pensiones,0.14788631765899557
+T1 2024,Corrientes,8,Jubilaciones y pensiones,0.14826075035920963
+T1 2024,Corrientes,9,Jubilaciones y pensiones,0.25787055175911794
+T1 2024,Corrientes,10,Jubilaciones y pensiones,0.16296676667077253
+T1 2024,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.21599107107027332
+T1 2024,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.17013327212888735
+T1 2024,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.12900036485575106
+T1 2024,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.0505327363728213
+T1 2024,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.05003184568725034
+T1 2024,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.038534797715612135
+T1 2024,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.018159803750568772
+T1 2024,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.007130052984849741
+T1 2024,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.0
+T1 2024,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0016473393467526063
+T1 2024,Corrientes,1,Otros no laborales,0.16585306946055758
+T1 2024,Corrientes,2,Otros no laborales,0.10392340548084077
+T1 2024,Corrientes,3,Otros no laborales,0.08890227001287947
+T1 2024,Corrientes,4,Otros no laborales,0.15802368144837972
+T1 2024,Corrientes,5,Otros no laborales,0.12964698519157153
+T1 2024,Corrientes,6,Otros no laborales,0.13686538029294593
+T1 2024,Corrientes,7,Otros no laborales,0.1577166728148231
+T1 2024,Corrientes,8,Otros no laborales,0.15597668654493343
+T1 2024,Corrientes,9,Otros no laborales,0.15191340991594837
+T1 2024,Corrientes,10,Otros no laborales,0.2866562669041676
+T2 2024,Total urbano EPH,1,Laboral,0.5441816768318811
+T2 2024,Total urbano EPH,2,Laboral,0.6708259076775684
+T2 2024,Total urbano EPH,3,Laboral,0.6935052478357746
+T2 2024,Total urbano EPH,4,Laboral,0.7138310492071197
+T2 2024,Total urbano EPH,5,Laboral,0.6945514520915581
+T2 2024,Total urbano EPH,6,Laboral,0.6887689077271844
+T2 2024,Total urbano EPH,7,Laboral,0.7413342808080255
+T2 2024,Total urbano EPH,8,Laboral,0.7794179474432752
+T2 2024,Total urbano EPH,9,Laboral,0.8044983502332466
+T2 2024,Total urbano EPH,10,Laboral,0.8565887814706189
+T2 2024,Total urbano EPH,1,Jubilaciones y pensiones,0.10982766746666749
+T2 2024,Total urbano EPH,2,Jubilaciones y pensiones,0.1349941605508706
+T2 2024,Total urbano EPH,3,Jubilaciones y pensiones,0.14100551151614932
+T2 2024,Total urbano EPH,4,Jubilaciones y pensiones,0.16353802470177053
+T2 2024,Total urbano EPH,5,Jubilaciones y pensiones,0.211768220232149
+T2 2024,Total urbano EPH,6,Jubilaciones y pensiones,0.221769856854986
+T2 2024,Total urbano EPH,7,Jubilaciones y pensiones,0.19178669205322255
+T2 2024,Total urbano EPH,8,Jubilaciones y pensiones,0.16053632718906913
+T2 2024,Total urbano EPH,9,Jubilaciones y pensiones,0.14511058018584932
+T2 2024,Total urbano EPH,10,Jubilaciones y pensiones,0.0911274197777249
+T2 2024,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.2685958557796378
+T2 2024,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.13081989808745023
+T2 2024,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.10262171161347358
+T2 2024,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.05619174796969234
+T2 2024,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.034604066193314645
+T2 2024,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.013888515467177742
+T2 2024,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.007164388933137505
+T2 2024,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.00458210862270846
+T2 2024,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.002369259425879901
+T2 2024,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.00018619197040259597
+T2 2024,Total urbano EPH,1,Otros no laborales,0.07739479992181357
+T2 2024,Total urbano EPH,2,Otros no laborales,0.06336003368411074
+T2 2024,Total urbano EPH,3,Otros no laborales,0.06286752903460249
+T2 2024,Total urbano EPH,4,Otros no laborales,0.06643917812141742
+T2 2024,Total urbano EPH,5,Otros no laborales,0.05907626148297823
+T2 2024,Total urbano EPH,6,Otros no laborales,0.07557271995065186
+T2 2024,Total urbano EPH,7,Otros no laborales,0.059714638205614394
+T2 2024,Total urbano EPH,8,Otros no laborales,0.05546361674494726
+T2 2024,Total urbano EPH,9,Otros no laborales,0.04802181015502424
+T2 2024,Total urbano EPH,10,Otros no laborales,0.05209760678125364
+T2 2024,Corrientes,1,Laboral,0.6195169023329931
+T2 2024,Corrientes,2,Laboral,0.6841380337680701
+T2 2024,Corrientes,3,Laboral,0.5645218266283727
+T2 2024,Corrientes,4,Laboral,0.6508560612872184
+T2 2024,Corrientes,5,Laboral,0.805059274211724
+T2 2024,Corrientes,6,Laboral,0.711053483463548
+T2 2024,Corrientes,7,Laboral,0.7356830938494829
+T2 2024,Corrientes,8,Laboral,0.6621752275391011
+T2 2024,Corrientes,9,Laboral,0.6920099686971685
+T2 2024,Corrientes,10,Laboral,0.6976136269372912
+T2 2024,Corrientes,1,Jubilaciones y pensiones,0.03499066226449534
+T2 2024,Corrientes,2,Jubilaciones y pensiones,0.1364360212017591
+T2 2024,Corrientes,3,Jubilaciones y pensiones,0.23042639151634461
+T2 2024,Corrientes,4,Jubilaciones y pensiones,0.12169597114505216
+T2 2024,Corrientes,5,Jubilaciones y pensiones,0.10733291651322106
+T2 2024,Corrientes,6,Jubilaciones y pensiones,0.18769955604533187
+T2 2024,Corrientes,7,Jubilaciones y pensiones,0.1667986481178238
+T2 2024,Corrientes,8,Jubilaciones y pensiones,0.2386382959847073
+T2 2024,Corrientes,9,Jubilaciones y pensiones,0.25619500910525633
+T2 2024,Corrientes,10,Jubilaciones y pensiones,0.24236752731434247
+T2 2024,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.2370914009029208
+T2 2024,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.10652405430282764
+T2 2024,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.1407492641716476
+T2 2024,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.09859287769374295
+T2 2024,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.03602478720249822
+T2 2024,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.006879132466640005
+T2 2024,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.011458223295342794
+T2 2024,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.012656786700767053
+T2 2024,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.004884781638079528
+T2 2024,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0028224138975192154
+T2 2024,Corrientes,1,Otros no laborales,0.10840103449959079
+T2 2024,Corrientes,2,Otros no laborales,0.07290189072734307
+T2 2024,Corrientes,3,Otros no laborales,0.06430251768363512
+T2 2024,Corrientes,4,Otros no laborales,0.12885508987398647
+T2 2024,Corrientes,5,Otros no laborales,0.05158302207255675
+T2 2024,Corrientes,6,Otros no laborales,0.09436782802448013
+T2 2024,Corrientes,7,Otros no laborales,0.08606003473735051
+T2 2024,Corrientes,8,Otros no laborales,0.08652968977542456
+T2 2024,Corrientes,9,Otros no laborales,0.04691024055949565
+T2 2024,Corrientes,10,Otros no laborales,0.05719643185084715
+T3 2024,Total urbano EPH,1,Laboral,0.5019608166331991
+T3 2024,Total urbano EPH,2,Laboral,0.6139830125430807
+T3 2024,Total urbano EPH,3,Laboral,0.6996972218606855
+T3 2024,Total urbano EPH,4,Laboral,0.7033488526947321
+T3 2024,Total urbano EPH,5,Laboral,0.6558226250053276
+T3 2024,Total urbano EPH,6,Laboral,0.6410526876413487
+T3 2024,Total urbano EPH,7,Laboral,0.7050730542987362
+T3 2024,Total urbano EPH,8,Laboral,0.7087952782400601
+T3 2024,Total urbano EPH,9,Laboral,0.707351438905371
+T3 2024,Total urbano EPH,10,Laboral,0.7368303096985318
+T3 2024,Total urbano EPH,1,Jubilaciones y pensiones,0.11271409523689761
+T3 2024,Total urbano EPH,2,Jubilaciones y pensiones,0.1375975842955949
+T3 2024,Total urbano EPH,3,Jubilaciones y pensiones,0.11770478195818457
+T3 2024,Total urbano EPH,4,Jubilaciones y pensiones,0.15906870701904335
+T3 2024,Total urbano EPH,5,Jubilaciones y pensiones,0.20930980064226473
+T3 2024,Total urbano EPH,6,Jubilaciones y pensiones,0.21360207490983632
+T3 2024,Total urbano EPH,7,Jubilaciones y pensiones,0.16351517141347327
+T3 2024,Total urbano EPH,8,Jubilaciones y pensiones,0.160344677970312
+T3 2024,Total urbano EPH,9,Jubilaciones y pensiones,0.1390357877643023
+T3 2024,Total urbano EPH,10,Jubilaciones y pensiones,0.09222235270090479
+T3 2024,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.293320902598969
+T3 2024,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.16782930577605285
+T3 2024,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.08649249333765201
+T3 2024,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.041350298541210626
+T3 2024,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.022021596163348547
+T3 2024,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.011452881928550268
+T3 2024,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.007856874840066405
+T3 2024,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0024958804190437123
+T3 2024,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0009275227602116385
+T3 2024,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.0005123469692205062
+T3 2024,Total urbano EPH,1,Otros no laborales,0.09200418553093423
+T3 2024,Total urbano EPH,2,Otros no laborales,0.08059009738527151
+T3 2024,Total urbano EPH,3,Otros no laborales,0.09610550284347792
+T3 2024,Total urbano EPH,4,Otros no laborales,0.0962321417450139
+T3 2024,Total urbano EPH,5,Otros no laborales,0.11284597818905913
+T3 2024,Total urbano EPH,6,Otros no laborales,0.13389235552026474
+T3 2024,Total urbano EPH,7,Otros no laborales,0.12355489944772409
+T3 2024,Total urbano EPH,8,Otros no laborales,0.1283641633705843
+T3 2024,Total urbano EPH,9,Otros no laborales,0.15268525057011503
+T3 2024,Total urbano EPH,10,Otros no laborales,0.17043499063134293
+T3 2024,Corrientes,1,Laboral,0.576444500529682
+T3 2024,Corrientes,2,Laboral,0.5878553817145387
+T3 2024,Corrientes,3,Laboral,0.6591794192035446
+T3 2024,Corrientes,4,Laboral,0.6868411995519078
+T3 2024,Corrientes,5,Laboral,0.6665892542715389
+T3 2024,Corrientes,6,Laboral,0.6975072906799318
+T3 2024,Corrientes,7,Laboral,0.6149436220885198
+T3 2024,Corrientes,8,Laboral,0.5958685182063805
+T3 2024,Corrientes,9,Laboral,0.6207396294049532
+T3 2024,Corrientes,10,Laboral,0.6520808234682323
+T3 2024,Corrientes,1,Jubilaciones y pensiones,0.03527887637362258
+T3 2024,Corrientes,2,Jubilaciones y pensiones,0.17919959050563758
+T3 2024,Corrientes,3,Jubilaciones y pensiones,0.12134478611263053
+T3 2024,Corrientes,4,Jubilaciones y pensiones,0.11561027748061124
+T3 2024,Corrientes,5,Jubilaciones y pensiones,0.1447835060082744
+T3 2024,Corrientes,6,Jubilaciones y pensiones,0.16555868566736967
+T3 2024,Corrientes,7,Jubilaciones y pensiones,0.23792688028844824
+T3 2024,Corrientes,8,Jubilaciones y pensiones,0.29197269883863514
+T3 2024,Corrientes,9,Jubilaciones y pensiones,0.22473568920428982
+T3 2024,Corrientes,10,Jubilaciones y pensiones,0.1855707714101297
+T3 2024,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.20671188678485228
+T3 2024,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.1792022285403348
+T3 2024,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.12014707496369065
+T3 2024,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.08234714257204179
+T3 2024,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.033570495826126735
+T3 2024,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.049588713909038136
+T3 2024,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.02863685061631421
+T3 2024,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.0032596308312884026
+T3 2024,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.00011575890716842724
+T3 2024,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0
+T3 2024,Corrientes,1,Otros no laborales,0.1815647363118432
+T3 2024,Corrientes,2,Otros no laborales,0.05374279923948891
+T3 2024,Corrientes,3,Otros no laborales,0.09932871972013418
+T3 2024,Corrientes,4,Otros no laborales,0.1152013803954391
+T3 2024,Corrientes,5,Otros no laborales,0.15505674389406002
+T3 2024,Corrientes,6,Otros no laborales,0.08734530974366041
+T3 2024,Corrientes,7,Otros no laborales,0.11849264700671774
+T3 2024,Corrientes,8,Otros no laborales,0.10889915212369584
+T3 2024,Corrientes,9,Otros no laborales,0.15440892248358853
+T3 2024,Corrientes,10,Otros no laborales,0.1623484051216381
+T4 2024,Total urbano EPH,1,Laboral,0.5153124017743197
+T4 2024,Total urbano EPH,2,Laboral,0.6625312705632431
+T4 2024,Total urbano EPH,3,Laboral,0.6905715765409198
+T4 2024,Total urbano EPH,4,Laboral,0.760263093959494
+T4 2024,Total urbano EPH,5,Laboral,0.6593412630075842
+T4 2024,Total urbano EPH,6,Laboral,0.7593607280081658
+T4 2024,Total urbano EPH,7,Laboral,0.7415113171108872
+T4 2024,Total urbano EPH,8,Laboral,0.7952958618640025
+T4 2024,Total urbano EPH,9,Laboral,0.8279802633854427
+T4 2024,Total urbano EPH,10,Laboral,0.8203543097780687
+T4 2024,Total urbano EPH,1,Jubilaciones y pensiones,0.09950908534482807
+T4 2024,Total urbano EPH,2,Jubilaciones y pensiones,0.1417727511637904
+T4 2024,Total urbano EPH,3,Jubilaciones y pensiones,0.16510692520333325
+T4 2024,Total urbano EPH,4,Jubilaciones y pensiones,0.15561655698809937
+T4 2024,Total urbano EPH,5,Jubilaciones y pensiones,0.24645421548204632
+T4 2024,Total urbano EPH,6,Jubilaciones y pensiones,0.17760839656968846
+T4 2024,Total urbano EPH,7,Jubilaciones y pensiones,0.2012020125375481
+T4 2024,Total urbano EPH,8,Jubilaciones y pensiones,0.17296164421477925
+T4 2024,Total urbano EPH,9,Jubilaciones y pensiones,0.13624653616879692
+T4 2024,Total urbano EPH,10,Jubilaciones y pensiones,0.10562608182902439
+T4 2024,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.32439764359917583
+T4 2024,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.137502036899578
+T4 2024,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.08967527473460483
+T4 2024,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.03996901573271438
+T4 2024,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.030423428303408478
+T4 2024,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.01769730799115026
+T4 2024,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.009235752604428259
+T4 2024,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0013690371085088133
+T4 2024,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0011984217208941509
+T4 2024,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.0011198027659234393
+T4 2024,Total urbano EPH,1,Otros no laborales,0.0607808692816764
+T4 2024,Total urbano EPH,2,Otros no laborales,0.05819394137338853
+T4 2024,Total urbano EPH,3,Otros no laborales,0.0546462235211421
+T4 2024,Total urbano EPH,4,Otros no laborales,0.0441513333196923
+T4 2024,Total urbano EPH,5,Otros no laborales,0.06378109320696099
+T4 2024,Total urbano EPH,6,Otros no laborales,0.04533356743099543
+T4 2024,Total urbano EPH,7,Otros no laborales,0.048050917747136386
+T4 2024,Total urbano EPH,8,Otros no laborales,0.03037345681270942
+T4 2024,Total urbano EPH,9,Otros no laborales,0.03457477872486625
+T4 2024,Total urbano EPH,10,Otros no laborales,0.07289980562698349
+T4 2024,Corrientes,1,Laboral,0.5948566298986858
+T4 2024,Corrientes,2,Laboral,0.6467877951089912
+T4 2024,Corrientes,3,Laboral,0.7252673390346992
+T4 2024,Corrientes,4,Laboral,0.5793549957192813
+T4 2024,Corrientes,5,Laboral,0.69041267474542
+T4 2024,Corrientes,6,Laboral,0.6019138001854049
+T4 2024,Corrientes,7,Laboral,0.6159459076103364
+T4 2024,Corrientes,8,Laboral,0.713292853171227
+T4 2024,Corrientes,9,Laboral,0.6756315158341935
+T4 2024,Corrientes,10,Laboral,0.7865107638508747
+T4 2024,Corrientes,1,Jubilaciones y pensiones,0.11488649073777113
+T4 2024,Corrientes,2,Jubilaciones y pensiones,0.0942168530123742
+T4 2024,Corrientes,3,Jubilaciones y pensiones,0.138214915221191
+T4 2024,Corrientes,4,Jubilaciones y pensiones,0.23059697902799595
+T4 2024,Corrientes,5,Jubilaciones y pensiones,0.15747949109928935
+T4 2024,Corrientes,6,Jubilaciones y pensiones,0.25416971290327184
+T4 2024,Corrientes,7,Jubilaciones y pensiones,0.2999319277242907
+T4 2024,Corrientes,8,Jubilaciones y pensiones,0.23654144355346296
+T4 2024,Corrientes,9,Jubilaciones y pensiones,0.28459159855410116
+T4 2024,Corrientes,10,Jubilaciones y pensiones,0.11353209848347073
+T4 2024,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.22764063881933436
+T4 2024,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.23016125214690325
+T4 2024,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.10062713372718993
+T4 2024,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.09514312157869624
+T4 2024,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.06908240810733045
+T4 2024,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.05128209822967361
+T4 2024,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.021781080747223947
+T4 2024,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.005956759027293745
+T4 2024,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.0
+T4 2024,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0
+T4 2024,Corrientes,1,Otros no laborales,0.0626162405442087
+T4 2024,Corrientes,2,Otros no laborales,0.02883409973173137
+T4 2024,Corrientes,3,Otros no laborales,0.03589061201691987
+T4 2024,Corrientes,4,Otros no laborales,0.09490490367402656
+T4 2024,Corrientes,5,Otros no laborales,0.08302542604796012
+T4 2024,Corrientes,6,Otros no laborales,0.09263438868164976
+T4 2024,Corrientes,7,Otros no laborales,0.062341083918148923
+T4 2024,Corrientes,8,Otros no laborales,0.044208944248016246
+T4 2024,Corrientes,9,Otros no laborales,0.03977688561170541
+T4 2024,Corrientes,10,Otros no laborales,0.09995713766565457
+T1 2025,Total urbano EPH,1,Laboral,0.50645473779305
+T1 2025,Total urbano EPH,2,Laboral,0.6204312707441686
+T1 2025,Total urbano EPH,3,Laboral,0.7215158193986018
+T1 2025,Total urbano EPH,4,Laboral,0.6550163083535725
+T1 2025,Total urbano EPH,5,Laboral,0.6442406218137436
+T1 2025,Total urbano EPH,6,Laboral,0.6813385365928157
+T1 2025,Total urbano EPH,7,Laboral,0.7319275908256504
+T1 2025,Total urbano EPH,8,Laboral,0.7209293859506367
+T1 2025,Total urbano EPH,9,Laboral,0.7234896768658923
+T1 2025,Total urbano EPH,10,Laboral,0.7450817313942317
+T1 2025,Total urbano EPH,1,Jubilaciones y pensiones,0.10788637024568946
+T1 2025,Total urbano EPH,2,Jubilaciones y pensiones,0.1310958280403122
+T1 2025,Total urbano EPH,3,Jubilaciones y pensiones,0.1104039656678428
+T1 2025,Total urbano EPH,4,Jubilaciones y pensiones,0.18706665820254706
+T1 2025,Total urbano EPH,5,Jubilaciones y pensiones,0.21455393031312728
+T1 2025,Total urbano EPH,6,Jubilaciones y pensiones,0.18175355543634172
+T1 2025,Total urbano EPH,7,Jubilaciones y pensiones,0.15835543012395895
+T1 2025,Total urbano EPH,8,Jubilaciones y pensiones,0.15735239107287502
+T1 2025,Total urbano EPH,9,Jubilaciones y pensiones,0.13249864794825192
+T1 2025,Total urbano EPH,10,Jubilaciones y pensiones,0.09430659642334786
+T1 2025,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.3011926023492216
+T1 2025,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.16509581233093676
+T1 2025,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.094376315595753
+T1 2025,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.04201562926101465
+T1 2025,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.024589982038158844
+T1 2025,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.011852286005700919
+T1 2025,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.004638690030869717
+T1 2025,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0015266626109349314
+T1 2025,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0015607450096135939
+T1 2025,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.001130825399648577
+T1 2025,Total urbano EPH,1,Otros no laborales,0.08446628961203893
+T1 2025,Total urbano EPH,2,Otros no laborales,0.08337708888458244
+T1 2025,Total urbano EPH,3,Otros no laborales,0.07370389933780244
+T1 2025,Total urbano EPH,4,Otros no laborales,0.11590140418286574
+T1 2025,Total urbano EPH,5,Otros no laborales,0.11661546583497025
+T1 2025,Total urbano EPH,6,Otros no laborales,0.12505562196514158
+T1 2025,Total urbano EPH,7,Otros no laborales,0.10507828901952092
+T1 2025,Total urbano EPH,8,Otros no laborales,0.12019156036555334
+T1 2025,Total urbano EPH,9,Otros no laborales,0.14245093017624222
+T1 2025,Total urbano EPH,10,Otros no laborales,0.15948084678277186
+T1 2025,Corrientes,1,Laboral,0.5201774814945931
+T1 2025,Corrientes,2,Laboral,0.6235119413964462
+T1 2025,Corrientes,3,Laboral,0.6801325834936868
+T1 2025,Corrientes,4,Laboral,0.718002740534551
+T1 2025,Corrientes,5,Laboral,0.5847593358422182
+T1 2025,Corrientes,6,Laboral,0.6637275033989656
+T1 2025,Corrientes,7,Laboral,0.5908590784475852
+T1 2025,Corrientes,8,Laboral,0.6829298132375081
+T1 2025,Corrientes,9,Laboral,0.6054738132850112
+T1 2025,Corrientes,10,Laboral,0.6675475920490037
+T1 2025,Corrientes,1,Jubilaciones y pensiones,0.13169864704824125
+T1 2025,Corrientes,2,Jubilaciones y pensiones,0.14007328314515466
+T1 2025,Corrientes,3,Jubilaciones y pensiones,0.06879596493946843
+T1 2025,Corrientes,4,Jubilaciones y pensiones,0.12947072105225715
+T1 2025,Corrientes,5,Jubilaciones y pensiones,0.2145373021373793
+T1 2025,Corrientes,6,Jubilaciones y pensiones,0.17671796903538986
+T1 2025,Corrientes,7,Jubilaciones y pensiones,0.23820583370544082
+T1 2025,Corrientes,8,Jubilaciones y pensiones,0.18130772141834064
+T1 2025,Corrientes,9,Jubilaciones y pensiones,0.28116864660688823
+T1 2025,Corrientes,10,Jubilaciones y pensiones,0.1758051434734197
+T1 2025,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.26530358588756453
+T1 2025,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.18046604706736313
+T1 2025,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.13490273399834415
+T1 2025,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.08495842229821891
+T1 2025,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.05539002884870254
+T1 2025,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.028014950270777276
+T1 2025,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.0066605299163894046
+T1 2025,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.007124621541729484
+T1 2025,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.004354951798897824
+T1 2025,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0
+T1 2025,Corrientes,1,Otros no laborales,0.08282028556960112
+T1 2025,Corrientes,2,Otros no laborales,0.05594872839103604
+T1 2025,Corrientes,3,Otros no laborales,0.1161687175685006
+T1 2025,Corrientes,4,Otros no laborales,0.06756811611497289
+T1 2025,Corrientes,5,Otros no laborales,0.14531333317169998
+T1 2025,Corrientes,6,Otros no laborales,0.13153957729486734
+T1 2025,Corrientes,7,Otros no laborales,0.16427455793058454
+T1 2025,Corrientes,8,Otros no laborales,0.12863784380242171
+T1 2025,Corrientes,9,Otros no laborales,0.10900258830920276
+T1 2025,Corrientes,10,Otros no laborales,0.15664726447757654
+T2 2025,Total urbano EPH,1,Laboral,0.5093660654082857
+T2 2025,Total urbano EPH,2,Laboral,0.6709821809925767
+T2 2025,Total urbano EPH,3,Laboral,0.7270686207380922
+T2 2025,Total urbano EPH,4,Laboral,0.7303795387434925
+T2 2025,Total urbano EPH,5,Laboral,0.6785817429121841
+T2 2025,Total urbano EPH,6,Laboral,0.7739539124536585
+T2 2025,Total urbano EPH,7,Laboral,0.7694476556196359
+T2 2025,Total urbano EPH,8,Laboral,0.7974921187569252
+T2 2025,Total urbano EPH,9,Laboral,0.8153844193971281
+T2 2025,Total urbano EPH,10,Laboral,0.8323224015297275
+T2 2025,Total urbano EPH,1,Jubilaciones y pensiones,0.1303933474536585
+T2 2025,Total urbano EPH,2,Jubilaciones y pensiones,0.13989507934197498
+T2 2025,Total urbano EPH,3,Jubilaciones y pensiones,0.14633999740218137
+T2 2025,Total urbano EPH,4,Jubilaciones y pensiones,0.17015867152560707
+T2 2025,Total urbano EPH,5,Jubilaciones y pensiones,0.24510268134216479
+T2 2025,Total urbano EPH,6,Jubilaciones y pensiones,0.16673388617151016
+T2 2025,Total urbano EPH,7,Jubilaciones y pensiones,0.18214137848882855
+T2 2025,Total urbano EPH,8,Jubilaciones y pensiones,0.16696934479538764
+T2 2025,Total urbano EPH,9,Jubilaciones y pensiones,0.1454411250847628
+T2 2025,Total urbano EPH,10,Jubilaciones y pensiones,0.10071836767701099
+T2 2025,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.2820087849824532
+T2 2025,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.13043737422851953
+T2 2025,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.07728828870296021
+T2 2025,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.043632261229726195
+T2 2025,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.01957482479392263
+T2 2025,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.017323584435494567
+T2 2025,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.006739904850064363
+T2 2025,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.000966218836207518
+T2 2025,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0007717413277276629
+T2 2025,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.0017793230152446668
+T2 2025,Total urbano EPH,1,Otros no laborales,0.07823180215560264
+T2 2025,Total urbano EPH,2,Otros no laborales,0.05868536543692884
+T2 2025,Total urbano EPH,3,Otros no laborales,0.04930309315676622
+T2 2025,Total urbano EPH,4,Otros no laborales,0.055829528501174265
+T2 2025,Total urbano EPH,5,Otros no laborales,0.056740750951728446
+T2 2025,Total urbano EPH,6,Otros no laborales,0.04198861693933673
+T2 2025,Total urbano EPH,7,Otros no laborales,0.04167106104147115
+T2 2025,Total urbano EPH,8,Otros no laborales,0.03457231761147966
+T2 2025,Total urbano EPH,9,Otros no laborales,0.03840271419038144
+T2 2025,Total urbano EPH,10,Otros no laborales,0.06517990777801688
+T2 2025,Corrientes,1,Laboral,0.4868111106857364
+T2 2025,Corrientes,2,Laboral,0.7503729819046265
+T2 2025,Corrientes,3,Laboral,0.7489613631963777
+T2 2025,Corrientes,4,Laboral,0.6582935234658073
+T2 2025,Corrientes,5,Laboral,0.7812062027162319
+T2 2025,Corrientes,6,Laboral,0.77822599319456
+T2 2025,Corrientes,7,Laboral,0.49656902820533555
+T2 2025,Corrientes,8,Laboral,0.7147152707739616
+T2 2025,Corrientes,9,Laboral,0.6381627949200067
+T2 2025,Corrientes,10,Laboral,0.6334792486025164
+T2 2025,Corrientes,1,Jubilaciones y pensiones,0.18841646252967814
+T2 2025,Corrientes,2,Jubilaciones y pensiones,0.08258907099066233
+T2 2025,Corrientes,3,Jubilaciones y pensiones,0.0707484251300194
+T2 2025,Corrientes,4,Jubilaciones y pensiones,0.18193356160591231
+T2 2025,Corrientes,5,Jubilaciones y pensiones,0.11209764435850934
+T2 2025,Corrientes,6,Jubilaciones y pensiones,0.13519221646851592
+T2 2025,Corrientes,7,Jubilaciones y pensiones,0.39509213702612983
+T2 2025,Corrientes,8,Jubilaciones y pensiones,0.23776972634285903
+T2 2025,Corrientes,9,Jubilaciones y pensiones,0.29513690563721107
+T2 2025,Corrientes,10,Jubilaciones y pensiones,0.30876350109244133
+T2 2025,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.22430153699960106
+T2 2025,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.11720053522098785
+T2 2025,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.15410614444684131
+T2 2025,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.12217419527798935
+T2 2025,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.06632316432185628
+T2 2025,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.0344521100226287
+T2 2025,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.019821480741740463
+T2 2025,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.014447346719709209
+T2 2025,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.0051802104462325815
+T2 2025,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0
+T2 2025,Corrientes,1,Otros no laborales,0.10047088978498436
+T2 2025,Corrientes,2,Otros no laborales,0.04983741188372331
+T2 2025,Corrientes,3,Otros no laborales,0.026184067226761552
+T2 2025,Corrientes,4,Otros no laborales,0.03759871965029109
+T2 2025,Corrientes,5,Otros no laborales,0.040372988603402514
+T2 2025,Corrientes,6,Otros no laborales,0.05212968031429543
+T2 2025,Corrientes,7,Otros no laborales,0.08851735402679414
+T2 2025,Corrientes,8,Otros no laborales,0.03306765616347015
+T2 2025,Corrientes,9,Otros no laborales,0.06152008899654968
+T2 2025,Corrientes,10,Otros no laborales,0.05775725030504237
+T3 2025,Total urbano EPH,1,Laboral,0.5526827237942963
+T3 2025,Total urbano EPH,2,Laboral,0.6742219193923599
+T3 2025,Total urbano EPH,3,Laboral,0.7030087248285466
+T3 2025,Total urbano EPH,4,Laboral,0.6993966837607103
+T3 2025,Total urbano EPH,5,Laboral,0.7115094346142823
+T3 2025,Total urbano EPH,6,Laboral,0.712551005113155
+T3 2025,Total urbano EPH,7,Laboral,0.7369317016012614
+T3 2025,Total urbano EPH,8,Laboral,0.7531936087899145
+T3 2025,Total urbano EPH,9,Laboral,0.6973493529891455
+T3 2025,Total urbano EPH,10,Laboral,0.7172392317135752
+T3 2025,Total urbano EPH,1,Jubilaciones y pensiones,0.11603186626477174
+T3 2025,Total urbano EPH,2,Jubilaciones y pensiones,0.1178070940236218
+T3 2025,Total urbano EPH,3,Jubilaciones y pensiones,0.13731112342661417
+T3 2025,Total urbano EPH,4,Jubilaciones y pensiones,0.17541846054754068
+T3 2025,Total urbano EPH,5,Jubilaciones y pensiones,0.16737310351254814
+T3 2025,Total urbano EPH,6,Jubilaciones y pensiones,0.15616740452007127
+T3 2025,Total urbano EPH,7,Jubilaciones y pensiones,0.16548709278181606
+T3 2025,Total urbano EPH,8,Jubilaciones y pensiones,0.116363964828865
+T3 2025,Total urbano EPH,9,Jubilaciones y pensiones,0.13592536263971497
+T3 2025,Total urbano EPH,10,Jubilaciones y pensiones,0.1076891112954192
+T3 2025,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.2568771602428448
+T3 2025,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.14832090481045987
+T3 2025,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.07158816572634198
+T3 2025,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.04053109932357511
+T3 2025,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.019609163358247448
+T3 2025,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.012993527943658364
+T3 2025,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.005927847644829662
+T3 2025,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0030482303935107143
+T3 2025,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.0017394863703483478
+T3 2025,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.002531145950098825
+T3 2025,Total urbano EPH,1,Otros no laborales,0.07440824969808713
+T3 2025,Total urbano EPH,2,Otros no laborales,0.05965008177355848
+T3 2025,Total urbano EPH,3,Otros no laborales,0.0880919860184973
+T3 2025,Total urbano EPH,4,Otros no laborales,0.08465375636817389
+T3 2025,Total urbano EPH,5,Otros no laborales,0.10150829851492209
+T3 2025,Total urbano EPH,6,Otros no laborales,0.11828806242311542
+T3 2025,Total urbano EPH,7,Otros no laborales,0.0916533579720929
+T3 2025,Total urbano EPH,8,Otros no laborales,0.12739419598770974
+T3 2025,Total urbano EPH,9,Otros no laborales,0.16498579800079125
+T3 2025,Total urbano EPH,10,Otros no laborales,0.17254051104090679
+T3 2025,Corrientes,1,Laboral,0.5951152464459246
+T3 2025,Corrientes,2,Laboral,0.7092454622378715
+T3 2025,Corrientes,3,Laboral,0.6962667373723976
+T3 2025,Corrientes,4,Laboral,0.6253467303937823
+T3 2025,Corrientes,5,Laboral,0.6845333351111627
+T3 2025,Corrientes,6,Laboral,0.6084767558646856
+T3 2025,Corrientes,7,Laboral,0.7406713512369933
+T3 2025,Corrientes,8,Laboral,0.6446934768200184
+T3 2025,Corrientes,9,Laboral,0.47883898887425896
+T3 2025,Corrientes,10,Laboral,0.6419410890244801
+T3 2025,Corrientes,1,Jubilaciones y pensiones,0.065348936479143
+T3 2025,Corrientes,2,Jubilaciones y pensiones,0.1649271490261977
+T3 2025,Corrientes,3,Jubilaciones y pensiones,0.12112165353284887
+T3 2025,Corrientes,4,Jubilaciones y pensiones,0.200397350585526
+T3 2025,Corrientes,5,Jubilaciones y pensiones,0.12891654582244907
+T3 2025,Corrientes,6,Jubilaciones y pensiones,0.2985330853561686
+T3 2025,Corrientes,7,Jubilaciones y pensiones,0.14562698517627337
+T3 2025,Corrientes,8,Jubilaciones y pensiones,0.178446748294192
+T3 2025,Corrientes,9,Jubilaciones y pensiones,0.34261370177581985
+T3 2025,Corrientes,10,Jubilaciones y pensiones,0.24256216476377168
+T3 2025,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.24390657360163964
+T3 2025,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.08129665803757198
+T3 2025,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.12210688215289088
+T3 2025,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.09149448411773245
+T3 2025,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.03248571737642088
+T3 2025,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.025428720983134027
+T3 2025,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.0030269930403505466
+T3 2025,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.007920724634876794
+T3 2025,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.0
+T3 2025,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",0.0006144399312600644
+T3 2025,Corrientes,1,Otros no laborales,0.09562924347329277
+T3 2025,Corrientes,2,Otros no laborales,0.044530730698358736
+T3 2025,Corrientes,3,Otros no laborales,0.06050472694186259
+T3 2025,Corrientes,4,Otros no laborales,0.08276143490295927
+T3 2025,Corrientes,5,Otros no laborales,0.1540644016899674
+T3 2025,Corrientes,6,Otros no laborales,0.06756143779601168
+T3 2025,Corrientes,7,Otros no laborales,0.11067467054638268
+T3 2025,Corrientes,8,Otros no laborales,0.1689390502509128
+T3 2025,Corrientes,9,Otros no laborales,0.17854730934992114
+T3 2025,Corrientes,10,Otros no laborales,0.11488230628048814
+T4 2025,Total urbano EPH,1,Laboral,0.55344283581759
+T4 2025,Total urbano EPH,2,Laboral,0.6876776163773397
+T4 2025,Total urbano EPH,3,Laboral,0.7411255184066079
+T4 2025,Total urbano EPH,4,Laboral,0.7279659416484072
+T4 2025,Total urbano EPH,5,Laboral,0.7134182804136594
+T4 2025,Total urbano EPH,6,Laboral,0.7713751338522812
+T4 2025,Total urbano EPH,7,Laboral,0.7960027669707379
+T4 2025,Total urbano EPH,8,Laboral,0.8038546296909213
+T4 2025,Total urbano EPH,9,Laboral,0.8110216202899144
+T4 2025,Total urbano EPH,10,Laboral,0.8329937749174557
+T4 2025,Total urbano EPH,1,Jubilaciones y pensiones,0.14521778431370155
+T4 2025,Total urbano EPH,2,Jubilaciones y pensiones,0.13768607026186627
+T4 2025,Total urbano EPH,3,Jubilaciones y pensiones,0.12715780471295088
+T4 2025,Total urbano EPH,4,Jubilaciones y pensiones,0.19269986018117696
+T4 2025,Total urbano EPH,5,Jubilaciones y pensiones,0.21515393359553123
+T4 2025,Total urbano EPH,6,Jubilaciones y pensiones,0.1755057655628619
+T4 2025,Total urbano EPH,7,Jubilaciones y pensiones,0.16554527509907796
+T4 2025,Total urbano EPH,8,Jubilaciones y pensiones,0.1561463606536417
+T4 2025,Total urbano EPH,9,Jubilaciones y pensiones,0.14421896640491605
+T4 2025,Total urbano EPH,10,Jubilaciones y pensiones,0.09239292770995766
+T4 2025,Total urbano EPH,1,"Transferencias (subsidios, seguro desempleo)",0.23419309503944827
+T4 2025,Total urbano EPH,2,"Transferencias (subsidios, seguro desempleo)",0.12818595666113344
+T4 2025,Total urbano EPH,3,"Transferencias (subsidios, seguro desempleo)",0.08477348982885922
+T4 2025,Total urbano EPH,4,"Transferencias (subsidios, seguro desempleo)",0.03284932488458146
+T4 2025,Total urbano EPH,5,"Transferencias (subsidios, seguro desempleo)",0.02121526697428881
+T4 2025,Total urbano EPH,6,"Transferencias (subsidios, seguro desempleo)",0.010480196560245169
+T4 2025,Total urbano EPH,7,"Transferencias (subsidios, seguro desempleo)",0.005865570239359532
+T4 2025,Total urbano EPH,8,"Transferencias (subsidios, seguro desempleo)",0.0035616351668442516
+T4 2025,Total urbano EPH,9,"Transferencias (subsidios, seguro desempleo)",0.004122350428537461
+T4 2025,Total urbano EPH,10,"Transferencias (subsidios, seguro desempleo)",0.000554713180518719
+T4 2025,Total urbano EPH,1,Otros no laborales,0.0671462848292602
+T4 2025,Total urbano EPH,2,Otros no laborales,0.04645035669966054
+T4 2025,Total urbano EPH,3,Otros no laborales,0.04694318705158204
+T4 2025,Total urbano EPH,4,Otros no laborales,0.046484873285834394
+T4 2025,Total urbano EPH,5,Otros no laborales,0.050212519016520574
+T4 2025,Total urbano EPH,6,Otros no laborales,0.042638904024611714
+T4 2025,Total urbano EPH,7,Otros no laborales,0.03258638769082464
+T4 2025,Total urbano EPH,8,Otros no laborales,0.036437374488592786
+T4 2025,Total urbano EPH,9,Otros no laborales,0.04063706287663205
+T4 2025,Total urbano EPH,10,Otros no laborales,0.07405858419206787
+T4 2025,Corrientes,1,Laboral,0.48021007978747265
+T4 2025,Corrientes,2,Laboral,0.5986652238725826
+T4 2025,Corrientes,3,Laboral,0.7122648797280767
+T4 2025,Corrientes,4,Laboral,0.6000563979268696
+T4 2025,Corrientes,5,Laboral,0.6144251770814552
+T4 2025,Corrientes,6,Laboral,0.7066794646683734
+T4 2025,Corrientes,7,Laboral,0.7642657375562952
+T4 2025,Corrientes,8,Laboral,0.7256761011401323
+T4 2025,Corrientes,9,Laboral,0.6463065943006054
+T4 2025,Corrientes,10,Laboral,0.8079153175845178
+T4 2025,Corrientes,1,Jubilaciones y pensiones,0.10666084010537133
+T4 2025,Corrientes,2,Jubilaciones y pensiones,0.17181557819949447
+T4 2025,Corrientes,3,Jubilaciones y pensiones,0.17649808872262923
+T4 2025,Corrientes,4,Jubilaciones y pensiones,0.264376535024645
+T4 2025,Corrientes,5,Jubilaciones y pensiones,0.27633005259841625
+T4 2025,Corrientes,6,Jubilaciones y pensiones,0.19200031680089558
+T4 2025,Corrientes,7,Jubilaciones y pensiones,0.15561471749591957
+T4 2025,Corrientes,8,Jubilaciones y pensiones,0.20822641494513736
+T4 2025,Corrientes,9,Jubilaciones y pensiones,0.27741769907326685
+T4 2025,Corrientes,10,Jubilaciones y pensiones,0.17844663080012962
+T4 2025,Corrientes,1,"Transferencias (subsidios, seguro desempleo)",0.3352867209814199
+T4 2025,Corrientes,2,"Transferencias (subsidios, seguro desempleo)",0.16631602443728638
+T4 2025,Corrientes,3,"Transferencias (subsidios, seguro desempleo)",0.045191819542484725
+T4 2025,Corrientes,4,"Transferencias (subsidios, seguro desempleo)",0.07286473448517941
+T4 2025,Corrientes,5,"Transferencias (subsidios, seguro desempleo)",0.029288797016131882
+T4 2025,Corrientes,6,"Transferencias (subsidios, seguro desempleo)",0.008744192441532411
+T4 2025,Corrientes,7,"Transferencias (subsidios, seguro desempleo)",0.0022818734184901187
+T4 2025,Corrientes,8,"Transferencias (subsidios, seguro desempleo)",0.013713102856514616
+T4 2025,Corrientes,9,"Transferencias (subsidios, seguro desempleo)",0.0059989473137285676
+T4 2025,Corrientes,10,"Transferencias (subsidios, seguro desempleo)",1.6100257520910224e-05
+T4 2025,Corrientes,1,Otros no laborales,0.07784235912573614
+T4 2025,Corrientes,2,Otros no laborales,0.06320317349063662
+T4 2025,Corrientes,3,Otros no laborales,0.06604521200680935
+T4 2025,Corrientes,4,Otros no laborales,0.06270233256330598
+T4 2025,Corrientes,5,Otros no laborales,0.07995597330399676
+T4 2025,Corrientes,6,Otros no laborales,0.09257602608919863
+T4 2025,Corrientes,7,Otros no laborales,0.07783767152929502
+T4 2025,Corrientes,8,Otros no laborales,0.05238438105821576
+T4 2025,Corrientes,9,Otros no laborales,0.07027675931239914
+T4 2025,Corrientes,10,Otros no laborales,0.013621951357831608

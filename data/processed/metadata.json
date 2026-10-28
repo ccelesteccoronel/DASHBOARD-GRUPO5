@@ -1,0 +1,36 @@
+{
+  "generado": "2026-10-27T01:07:09",
+  "archivos": {
+    "T1 2024": "usu_individual_T124.xlsx",
+    "T2 2024": "usu_individual_T224.xlsx",
+    "T3 2024": "usu_individual_T324.xlsx",
+    "T4 2024": "usu_individual_T424.xlsx",
+    "T1 2025": "usu_individual_T125.xlsx",
+    "T2 2025": "usu_individual_T225.xlsx",
+    "T3 2025": "usu_individual_T325.xlsx",
+    "T4 2025": "usu_individual_T425.xlsx",
+    "T4 2020": "EPH_usu_individual_T420.xlsx",
+    "T4 2021": "usu_individual_T421.xlsx",
+    "T4 2022": "usu_individual_T422_xlsx.xlsx",
+    "T4 2023": "usu_individual_T423.xlsx"
+  },
+  "bootstrap_B": 500,
+  "semilla": 20260,
+  "lag_ipc_meses": 1,
+  "ipc_disponible": true,
+  "demo": false,
+  "fechas_descarga": {
+    "T1 2024": "2026-10-13",
+    "T2 2024": "2026-10-13",
+    "T3 2024": "2026-10-13",
+    "T4 2024": "2026-07-22",
+    "T1 2025": "2026-10-13",
+    "T2 2025": "2026-10-13",
+    "T3 2025": "2026-10-13",
+    "T4 2025": "2026-07-22",
+    "T4 2020": "2026-10-13",
+    "T4 2021": "2026-10-13",
+    "T4 2022": "2026-10-13",
+    "T4 2023": "2026-10-13"
+  }
+}

@@ -1,0 +1,7 @@
+indicador,referencia,calculado,diferencia,coincide
+Gini Total urbano T4 2024,0.428276,0.42827618588516814,1.8588516814688205e-07,True
+Gini Total urbano T4 2025,0.424758,0.4247580406403253,4.064032527173467e-08,True
+Gini Corrientes T4 2024,0.330571,0.3305706742860044,-3.257139956081012e-07,True
+Gini Corrientes T4 2025,0.335805,0.3358053923972155,3.923972154984412e-07,True
+Población ponderada Corrientes T4 2024,392641.0,392641.0,0.0,True
+Población ponderada Corrientes T4 2025,395388.0,395388.0,0.0,True
