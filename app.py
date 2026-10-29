@@ -15,8 +15,8 @@ import pandas as pd
 import plotly.graph_objects as go
 import streamlit as st
 
-VERSION = "1.0 (octubre de 2026)"
-REPO_URL = "https://github.com/andreacelestecoronel14-wq/dashboard-desigualdad-eph-FINAL"
+VERSION = "2.0 (octubre de 2026)"
+REPO_URL = "https://github.com/ccelesteccoronel/DASHBOARD-GRUPO5"
 DATA = Path(__file__).parent / "data" / "processed"
 PERIODOS = [f"T{t} {a}" for a in (2024, 2025) for t in (1, 2, 3, 4)]
 REC_COLOR = {"Corrientes": "#d1495b", "Total urbano EPH": "#2e6f95"}
@@ -206,7 +206,7 @@ with tabs[0]:
     st.caption("Los indicadores se leen en conjunto: que la brecha con el decil 1 suba mientras la brecha con el decil 5 "
                "y la participación del decil 10 bajan indica que el cambio no fue uniforme. "
                "Salvo el Gini, estos valores se informan como estimaciones puntuales.")
-    st.subheader(f"Guion para exponer · {REC_LABEL[rec]}")
+    st.subheader(f"Aspectos claves del análisis · {REC_LABEL[rec]}")
     st.markdown(f"""
 **1. ¿Qué medimos?** Cómo se reparte el ingreso entre las personas, usando el ingreso per cápita de su hogar.
 Ordenamos a la población de menor a mayor ingreso y la dividimos en 10 grupos iguales (*deciles*).
@@ -446,14 +446,14 @@ with tabs[5]:
              r"\qquad \frac{D_{10}}{D_5} = \frac{\bar y_{10}}{\bar y_{5}}\qquad \bar y_d = \frac{\sum_{i\in d} w_i\,y_i}{\sum_{i\in d} w_i}")
     st.latex(r"T = \sum_g s_g\frac{\mu_g}{\mu}T_g \;+\; \sum_g s_g\frac{\mu_g}{\mu}\ln\frac{\mu_g}{\mu}"
              r"\quad(\text{dentro} + \text{entre grupos})")
-    st.subheader("Límites que conviene decir en voz alta")
+    st.subheader("Enfoque Metodológico y Alcance")
     st.markdown("""
 1. La EPH es una muestra: un cambio dentro del margen de error **no es** un hallazgo.
 2. Ocho trimestres permiten ver una dinámica corta; la serie de cuartos trimestres 2020-2025 da más contexto, pero son 6 puntos y el T4 2020 está afectado por la pandemia.
 3. Se comparan los mismos trimestres de años distintos para evitar estacionalidad.
 4. El IPC es nacional; Corrientes puede haber tenido una inflación distinta.
 5. Los ingresos de la EPH se subdeclaran, sobre todo en la cima: el Gini de encuestas tiende a subestimar la desigualdad real.
-6. La pobreza por línea (CBT) no se incluye: requiere ingreso total del hogar y adulto equivalente, no IPCF (ver README).
+
 """)
     st.subheader("Fuente, fecha y reproducibilidad")
     arch = pd.DataFrame({"Trimestre": list(D["meta"]["archivos"]), "Archivo EPH (base individual)": list(D["meta"]["archivos"].values())})
@@ -465,7 +465,7 @@ with tabs[5]:
 - **Fuente:** INDEC, Encuesta Permanente de Hogares, bases de microdatos usu_individual. La fecha de descarga de cada base figura en la tabla de arriba.
 - **Versión del tablero:** {VERSION}.
 - **Procesamiento:** {D['meta']['generado']} · {D['meta']['bootstrap_B']} réplicas bootstrap · semilla {D['meta']['semilla']}.
-- **Código y datos:** [github.com/andreacelestecoronel14-wq/dashboard-desigualdad-eph-FINAL]({REPO_URL}) (`src/etl.py` reproduce todo desde las bases oficiales).
+- **Código y datos:** [https://github.com/ccelesteccoronel/DASHBOARD-GRUPO5]({REPO_URL}) (`src/etl.py` reproduce todo desde las bases oficiales).
 """)
     st.subheader("Calidad de la muestra")
     _q = D["calidad_muestra"].set_index(["recorte", "periodo"])
